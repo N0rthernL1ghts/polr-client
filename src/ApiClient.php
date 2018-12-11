@@ -37,7 +37,6 @@ class ApiClient implements ApiClientInterface, ApiEndpointsInterface
 
     /**
      * Lookup constructor.
-     * @param string $urlEnding
      * @param Config|null $config
      */
     public function __construct(Config $config = null)

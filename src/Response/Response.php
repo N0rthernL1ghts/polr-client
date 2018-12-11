@@ -29,7 +29,7 @@ abstract class Response implements ResponseInterface
 
     /**
      * Response constructor.
-     * @param PsrResponseInterface $httpMessage
+     * @param PsrResponseInterface $httpResponse
      * @param AttributesInterface $attributes
      * @param array $context Simple array used for passing data to extending classes
      */

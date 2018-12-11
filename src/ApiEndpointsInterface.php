@@ -51,7 +51,7 @@ interface ApiEndpointsInterface
      * @see https://docs.polrproject.org/en/latest/developer-guide/api/#apiv2actionshorten_bulk
      *
      * @param array $urls [ 'https://www.example.com/shorten_me' => ShortenAttributesInterface]
-     * @return mixed
+     * @return array
      */
     public function shortenBulk(array $urls):array;
 }
