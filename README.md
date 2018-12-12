@@ -11,6 +11,8 @@
 
 > REST API client written in PHP for cydrobolt/polr
 
+Provides simple interface for interaction with Polr instances
+
 ## Usage
 
 Very minimal example, using default configuration
