@@ -108,5 +108,12 @@ So we make sure that all moving parts are running smoothly
 $ composer test
 ```
 
+## TODO
+- Implement [shorten_bulk [/api/v2/action/shorten_bulk]](https://docs.polrproject.org/en/latest/developer-guide/api/#apiv2actionshorten_bulk) 
+
+
+## Disclaimer
+This project or it's authors are not affiliated with the [Polr Project](https://polrproject.org/) or any third party.
+
 ## License
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
