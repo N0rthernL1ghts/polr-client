@@ -34,7 +34,7 @@ $attributes = new ShortenAttributes(['custom_ending' => 'polr']);
 $response = $api->shorten('https://www.polrproject.org', $attributes);
 
 // Check if API request was successful. Remains true as long as HTTP status code equals 200 OK
-if ($response->wasSuccessful()) {
+if (!$response->wasSuccessful()) {
     echo 'There was an error querying the api' . PHP_EOL;
 }
 
