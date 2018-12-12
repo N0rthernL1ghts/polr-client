@@ -4,6 +4,7 @@
 [![Total Downloads](https://poser.pugx.org/northern-lights/polr-client/downloads)](https://packagist.org/packages/northern-lights/polr-client)
 [![Latest Unstable Version](https://poser.pugx.org/northern-lights/polr-client/v/unstable)](https://packagist.org/packages/northern-lights/polr-client)
 [![Maintainability](https://api.codeclimate.com/v1/badges/ad0be96540ad3c002ab7/maintainability)](https://codeclimate.com/github/N0rthernL1ghts/polr-client/maintainability)
+[![Semantic Versioning](https://img.shields.io/badge/Semantic_Versioning-Yes-blue.svg)](https://semver.org)
 [![License](https://poser.pugx.org/northern-lights/polr-client/license)](https://packagist.org/packages/northern-lights/polr-client)
 
 ## Introduction
