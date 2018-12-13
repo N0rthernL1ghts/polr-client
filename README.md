@@ -113,6 +113,7 @@ $ composer test
 ## TODO
 - Implement [shorten_bulk [/api/v2/action/shorten_bulk]](https://docs.polrproject.org/en/latest/developer-guide/api/#apiv2actionshorten_bulk) 
 - Add Unit tests
+- Add detailed API documentation
 
 ## Disclaimer
 This project or it's authors are not affiliated with the [Polr Project](https://polrproject.org/) or any third party.
